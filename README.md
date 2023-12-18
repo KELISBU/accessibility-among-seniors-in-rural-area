@@ -32,3 +32,4 @@ Rural seniors can access fewer intended destinations than their urban counterpar
 Aging is a factor that alters the intended destinations of rural seniors, which in turn changes their accessibility.  
 
 ![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/03275f86-153e-423c-956e-9939bd3476fc)
+In summary, rural seniors encounter restricted accessibility for accessing medical services and assisting others. Nevertheless, it is noteworthy that they do not face equivalent limitations in activities such as returning home, work commute, shopping, or recreational pursuits. This distinction can be attributed to the special needs and willingness of this group to access some services or resources.
