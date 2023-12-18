@@ -27,9 +27,24 @@ This study examines the hypothesized causal relationship in Figure 1 by extracti
 ### H1:The Direct Impact of Aging and Rural Residency on Accessibility
 The increased travel distance for rural seniors to reach their intended destinations, in contrast to their urban counterparts, is a contributing factor to their reduced accessibility.  
 We compared rural seniors to urban seniors on their cumulative distribution functions (CDFs) of travel distance for each specific travel purpose.
+
 **Result**:  
 Rural seniors can access fewer intended destinations than their urban counterparts within the same travel distance. For example, within 15 miles rural seniors reach 52.8% of their destinations for medical services, whereas this percentage for urban seniors is 82.9%. Rural seniors experience drawbacks while accessing intended destinations than their counterparts in urban areas within the same travel time. For example, rural seniors reach 69.0% of their shopping destinations within 20 minutes, whereas urban seniors can reach 76.1%. Differences in their travel distance and travel time distributions are verified by the Kolmogorov-Smirnov (KS) test (p-value = 0).
 Aging is a factor that alters the intended destinations of rural seniors, which in turn changes their accessibility.  
 
-![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/03275f86-153e-423c-956e-9939bd3476fc)  
+![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/03275f86-153e-423c-956e-9939bd3476fc) 
+
 In summary, rural seniors encounter restricted accessibility for accessing medical services and assisting others. Nevertheless, it is noteworthy that they do not face equivalent limitations in activities such as returning home, work commute, shopping, or recreational pursuits. This distinction can be attributed to the special needs and willingness of this group to access some services or resources.
+
+### H2:The Impact of Aging and Rural Residency to Mobility.
+The hypothesis H2 asserts that the reduced mobility among rural seniors stems from more restricted choices of their preferred transportation modes.
+
+**Result**: 
+Rural seniors heavily rely on automobiles, which are used for 93.9% of their trips (=10.45%/11.13%).
+![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/677f55eb-ba89-4440-a9c7-1c4c11d00431)
+
+Rural seniors have an average of 2.98 trips per person per day. The low travel frequency of rural seniors indicates a lower level of willingness they possess for travel. 
+
+Surprisingly, rural seniors require less time to reach transit stations, with an average of 7.29 minutes.  However, rural seniors demonstrate a reduced preference for public transit.
+![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/c65ed52b-2e98-4848-9409-1bc5351dbd24)  
+In summary, aging and rural residency have been factors contributing to the reduced mobility among rural seniors.
