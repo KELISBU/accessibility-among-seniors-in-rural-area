@@ -15,7 +15,7 @@ This study examines the hypothesized causal relationship in Figure 1 by extracti
 
 •	Six key travel purposes: home, work, medical service, shopping, recreational activities, and transporting someone.
 
-•	Local travel with distance being within 75 miles (Pucher and Renne 2005).
+•	Local travel with distance being within 75 miles.
 
 •	Two age groups: travelers from 16 to 64 years are defined as younger adults (Yadults), and those aged 65 or older are defined as seniors.
 
