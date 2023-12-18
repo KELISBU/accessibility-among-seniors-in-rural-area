@@ -23,3 +23,12 @@ This study examines the hypothesized causal relationship in Figure 1 by extracti
 ## Measurement for mobility and accessibility
 **Mobility**:1.the distribution of trips by travel modes 2.travel frequency 3.travel speed 4.time to access public transit stations.  
 **Accessibility**: travel distance and travel time to intended destinations as measures of accessibility. Their 75th percentiles conditioned on a specific travel purpose are used as indicators of the ease to reach an intended destination. 
+## Data result and analysis
+### H1:The Direct Impact of Aging and Rural Residency on Accessibility
+The increased travel distance for rural seniors to reach their intended destinations, in contrast to their urban counterparts, is a contributing factor to their reduced accessibility.  
+We compared rural seniors to urban seniors on their cumulative distribution functions (CDFs) of travel distance for each specific travel purpose.
+**Result**:  
+Rural seniors can access fewer intended destinations than their urban counterparts within the same travel distance. For example, within 15 miles rural seniors reach 52.8% of their destinations for medical services, whereas this percentage for urban seniors is 82.9%. Rural seniors experience drawbacks while accessing intended destinations than their counterparts in urban areas within the same travel time. For example, rural seniors reach 69.0% of their shopping destinations within 20 minutes, whereas urban seniors can reach 76.1%. Differences in their travel distance and travel time distributions are verified by the Kolmogorov-Smirnov (KS) test (p-value = 0).
+Aging is a factor that alters the intended destinations of rural seniors, which in turn changes their accessibility.  
+
+![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/03275f86-153e-423c-956e-9939bd3476fc)
