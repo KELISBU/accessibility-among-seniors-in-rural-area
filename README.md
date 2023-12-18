@@ -21,5 +21,5 @@ This study examines the hypothesized causal relationship in Figure 1 by extracti
 
 •	Two regions of household residency: urban and rural based on home address and 2014 TIGER/Line Shapefile (NHTS 2017).
 ## Measurement for mobility and accessibility
-**Mobility**:1.the distribution of trips by travel modes 2.travel frequency 3.travel speed 4.time to access public transit stations. 
+**Mobility**:1.the distribution of trips by travel modes 2.travel frequency 3.travel speed 4.time to access public transit stations.  
 **Accessibility**: travel distance and travel time to intended destinations as measures of accessibility. Their 75th percentiles conditioned on a specific travel purpose are used as indicators of the ease to reach an intended destination. 
