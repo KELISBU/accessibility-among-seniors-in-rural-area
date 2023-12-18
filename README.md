@@ -10,7 +10,7 @@ H2: Reduced mobility among rural seniors stems from their constrained choices of
 
 H3: The reduced mobility among rural seniors is another reason that rural seniors experience reduced accessibility.
 ## NHTS Dataset
-This study examines the hypothesized causal relationship in Figure 1 by extracting evidences from the 2017 National Household Travel Survey (NHTS 2017), which contains a completed survey from 129,696 households and 923,572 person trips. This study defines its scope of data analysis by concentrating on:(https://nhts.ornl.gov/)
+This study examines the hypothesized causal relationship in Figure 1 by extracting evidences from the 2017 National Household Travel Survey (NHTS 2017), which contains a completed survey from 129,696 households and 923,572 person trips. This study defines its scope of data analysis by concentrating on:(https://nhts.ornl.gov/)  
 •	Four primary travel modes: automobiles, bicycles, walking, and public transit
 
 •	Six key travel purposes: home, work, medical service, shopping, recreational activities, and transporting someone.
