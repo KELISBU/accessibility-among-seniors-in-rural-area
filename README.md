@@ -17,5 +17,6 @@ We caculated cumulative distribution function among groups for intended purposes
 ## H2
 We analyzed the distribution of trips by transportation modes and traveler groups, and travel frequency, travel speed, and time to public transit, for the three groups of travelers.Additional codes are display in data and code: H2.ipynb.
 ## H3
-
+We caculated cumulative distribution function of travel distance and time of 4 main travel modes for intended purposes. Additional codes are display in data and code: H3.ipynb.
 ## H4
+We caculated cumulative distribution function of travel distance and time of 4 main travel modes among three groups for intended purposes. Additional codes are display in data and code: H4.ipynb.
