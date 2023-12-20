@@ -18,17 +18,14 @@ We caculated cumulative distribution function among groups for intended purposes
 
 ## H2
 We analyzed the distribution of trips by transportation modes and traveler groups, and travel frequency, travel speed, and time to public transit, for the three groups of travelers.Additional codes are display in data and code: H2.ipynb.  
-![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/1af6f436-4d80-453a-aecc-ad79c662dce4)
+![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/blob/main/data%20and%20code/H2.png)
 ## H3
 We caculated cumulative distribution function of travel distance and time of 4 main travel modes for intended purposes. Additional codes are display in data and code: H3.ipynb.  
 ![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/13e9b0a5-d407-42dc-9a12-876f99d2f5b5)
 
 ## H4
 We caculated cumulative distribution function of travel distance and time of 4 main travel modes among three groups for intended purposes. Additional codes are display in data and code: H4.ipynb.  
-![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/c2b5fcc1-440c-4ff3-bbe7-4ad0f448690f)
-![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/c8e25f4b-1f69-453a-b2dd-559a852ca1fe)
-![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/a5d9e269-d6ca-42ee-8891-afd0371bcd9a)
-![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/5296a5a1-87eb-46b5-be64-163645d96da9)
+
 
 
 
