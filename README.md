@@ -14,7 +14,7 @@ We define transportation modes including: '01' as walking, '02' as bicycle, '03-
 **'WTTRDFIN'**: final trip weight.
 ## H1
 We caculated cumulative distribution function among groups for intended purposes. Additional codes are display in data and code: H1.ipynb.  
-![image](https://github.com/KELISBU/accessibility-among-seniors-in-rura-l-area/assets/130044827/3b3080ce-5001-4df2-adbc-86e67e811f76)
+![image](data and code/H1.png)
 
 ## H2
 We analyzed the distribution of trips by transportation modes and traveler groups, and travel frequency, travel speed, and time to public transit, for the three groups of travelers.Additional codes are display in data and code: H2.ipynb.  
