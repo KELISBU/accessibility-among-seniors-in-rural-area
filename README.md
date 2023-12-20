@@ -13,9 +13,9 @@ We define transportation modes including: '01' as walking, '02' as bicycle, '03-
 **'R_AGE_IMP'**: age. We define people aged from 16-64 as younger adults (Yadults), and 65 and older as seniors.  
 **'WTTRDFIN'**: final trip weight.
 ## H1
-We caculated cumulative distribution function among groups for intended purposes. Additional codes are display in [H1 code](main/H1 code)
+We caculated cumulative distribution function among groups for intended purposes. Additional codes are display in data and code: H1.ipynb.
 ## H2
-We analyzed the distribution of trips by transportation modes and traveler groups, and travel frequency, travel speed, and time to public transit, for the three groups of travelers.  
+We analyzed the distribution of trips by transportation modes and traveler groups, and travel frequency, travel speed, and time to public transit, for the three groups of travelers.Additional codes are display in data and code: H2.ipynb.
 ## H3
 
 ## H4
