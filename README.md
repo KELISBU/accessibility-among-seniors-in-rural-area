@@ -25,6 +25,9 @@ We caculated cumulative distribution function of travel distance and time of 4 m
 
 ## H4
 We caculated cumulative distribution function of travel distance and time of 4 main travel modes among three groups for intended purposes. Additional codes are display in data and code: H4.ipynb.  
+#Citation
+If the dataset and analysis are helpful, please cite as follows:
+To be announced
 # ACKNOWLEDGEMENT
 This research was partially funded by the Rural, Equitable and Accessible Transportation (REAT) Center, a Tier-1 University Transportation Center (UTC) funded by the United States Department of Transportation (USDOT), through agreement number 69A3552348321. The contents of this paper reflect the views of the authors. USDOT assumes no liability for the contents or use thereof.
 
