@@ -27,6 +27,7 @@ We caculated cumulative distribution function of travel distance and time of 4 m
 We caculated cumulative distribution function of travel distance and time of 4 main travel modes among three groups for intended purposes. Additional codes are display in data and code: H4.ipynb.  
 # Citation
 If the dataset and analysis are helpful, please cite as follows:
+
 @inbook{doi:10.1061/9780784485521.009,
 author = {Ke Li  and Shizhe Li  and Ruwen Qin },
 title = {Development of a Causal Model for Improving Rural Seniors’ Accessibility to Resources: Data-Based Evidence},
