@@ -38,6 +38,7 @@ doi = {10.1061/9780784485521.009},
 URL = {https://ascelibrary.org/doi/abs/10.1061/9780784485521.009},
 eprint = {https://ascelibrary.org/doi/pdf/10.1061/9780784485521.009}
 }
+
 # ACKNOWLEDGEMENT
 This research was partially funded by the Rural, Equitable and Accessible Transportation (REAT) Center, a Tier-1 University Transportation Center (UTC) funded by the United States Department of Transportation (USDOT), through agreement number 69A3552348321. The contents of this paper reflect the views of the authors. USDOT assumes no liability for the contents or use thereof.
 
